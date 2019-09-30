@@ -1,0 +1,85 @@
+<!--pages/show/show.wxml--> 
+<view class="container list">
+<block wx:for="{{logs}}" wx:for-item="log">
+<view>cha</view>
+</block>
+</view> 
+<image src="../../img/image/background.jpg" class="img"></image>
+<view class="content">
+<view class="nm">
+姜博馨
+</view>
+<view class="Cont">
+<view class="one">
+手机
+</view>
+<view class="two">
+15311775870
+</view>
+<view class="three">
+<button>拨打</button>
+</view>
+</view>
+<view class="Cont">
+<view class="one">
+邮箱
+</view>
+<view class="two">
+2781031172@qq.com
+</view>
+<view class="three">
+<button>拨打</button>
+</view>
+</view>
+<view class="Cont">
+<view class="one">
+职业
+</view>
+<view class="two">
+大全栈
+</view>
+<view class="three">
+<button>拨打</button>
+</view>
+</view>
+</view>
+<view class="ko"></view>
+
+<view class="kos">
+<view class="ko_s">
+<view class="k_s">
+<image src="../../img/3.jpg"></image>
+</view>
+
+<view class="k-d">
+生成海报
+</view>
+
+</view>
+
+<view class="ko_s">
+<view class="k_s">
+<image src="../../img/4.jpg"></image>
+</view>
+
+<view class="k-d">
+保存电话
+</view>
+
+</view>
+
+
+<view class="kos_s">
+<view class="k_s">
+<image src="../../img/5.jpg"></image>
+</view>
+
+<view class="k-d">
+分享好友
+</view>
+
+</view>
+
+
+
+</view>
